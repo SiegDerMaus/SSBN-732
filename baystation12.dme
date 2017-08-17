@@ -2420,6 +2420,7 @@
 #include "interface\interface.dm"
 #include "interface\skin.dmf"
 #include "maps\_map_include.dm"
+#include "maps\USS Alaska.dmm"
 #include "maps\example\example_define.dm"
 #include "maps\overmap_example\overmap_example_define.dm"
 #include "maps\torch\torch.dm"
